@@ -7,12 +7,11 @@ Bernie Bradshaw from NitroNet.
 
 
 ## :sassy_man:  About - Bernie Bradshaw
-- :trophy: I am a Leader and Founder at NitroNet
-- :trophy: `ACPC` Finalist 2021
-- :technologist: https://thenitronet.com/
-- :computer: https://discord.gg/xj8u7648gZ
+- :trophy: `I am a Leader and Founder at NitroNet`
+- :technologist: `https://thenitronet.com/`
+- :computer: `https://discord.gg/xj8u7648gZ`
 - :student: I’m currently learning: `LUA` and `Software Engineering`.
-- :thinking: Looking at TypeScript and Java very closely. 
+- :thinking: Looking at` TypeScript` and `Java` very closely. 
 
 
 ## 🔥 Streak Stats

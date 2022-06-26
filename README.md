@@ -10,8 +10,8 @@ Bernie Bradshaw from NitroNet.
 - `I am a Leader and Founder at NitroNet`
 - `https://thenitronet.com/`
 - `https://discord.gg/xj8u7648gZ`
-- `I’m currently learning: `LUA` and `Software Engineering`.
-- `Looking at` TypeScript` and `Java` very closely. 
+- `I’m currently learning: LUA and Software Engineering`.
+- `Looking at TypeScript and Java very closely.` 
 
 
 ## 🔥 Streak Stats
